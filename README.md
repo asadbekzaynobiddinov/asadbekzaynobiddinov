@@ -59,7 +59,6 @@
   <table align="center" width="100%" height="100%">
     <tr>
       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbekzaynobiddinov&theme=github_dark" alt="asadbekzaynobiddinov's GitHub Stat"/></td>
-      <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=asadbekzaynobiddinov&theme=merko" alt="asadbekzaynobiddinov's Contribution Streak"/></td>
     </tr>
   </table>
 
