@@ -11,9 +11,14 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-
-[![Linkedin Badge](https://www.linkedin.com/in/asadbek-zaynobiddinov-00987b33a/) 
-[![Telegram Badge](https://t.me/zaynobiddinovasadbek)](https://t.me/zaynobiddinovasadbek) 
+<div align="center">
+    <a href="https://www.linkedin.com/in/asadbek-zaynobiddinov-00987b33a/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/zaynobiddinovasadbek" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+    </a>
+</div>
 
 <div align="center">
   <h2>🚀 Github Commits</h2>
