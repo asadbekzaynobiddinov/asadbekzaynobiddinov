@@ -75,13 +75,14 @@
 </div>
 
 <div style="text-align: center;">
-        <h2>🌱 Currently Learning</h2>
-        <p>I'm currently working on deepening my knowledge and learning new technologies, including:</p>
-        <ul>
-            <li>Advanced programming techniques in Python</li>
-            <li>Database management and optimization</li>
-        </ul>
+    <h2>🌱 Currently Learning</h2>
+    <p>I'm currently working on deepening my knowledge and learning new technologies, including:</p>
+    <ul>
+        <li>Advanced TypeScript techniques and Nest.js</li>
+        <li>React and Next.js frameworks</li>
+    </ul>
 </div>
+
 
 <div style="text-align: center;">
         <h2>🎯 Future Goals</h2>
